@@ -1,3 +1,4 @@
+#참고 : https://www.acmicpc.net/contest/qna/278
 def is_prime_number(x):
     for i in range(2, x):
         if x % i == 0:
