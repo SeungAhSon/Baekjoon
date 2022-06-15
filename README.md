@@ -1,6 +1,6 @@
 ![SeungAhSon's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeungAhSon&show_icons=true&theme=radical)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/pastel/generate_badge?boj={gongsoonyee)]
+[![Solved.ac Profile](http://mazassumnida.wtf/api/pastel/generate_badge?boj={gongsoonyee)](https://solved.ac/gongsoonyee/)
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=gongsoonyee)](https://solved.ac/gongsoonyee)
