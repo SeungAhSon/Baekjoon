@@ -1,0 +1,8 @@
+def solution(array, commands):
+    ans = []
+    for i in range(len(commands)):
+        temp = array[int(commands[i][0])-1:int(commands[i][1])]
+        temp.sort()
+        ans.append(temp[int(commands[i][2]-1)])
+
+    return ans
