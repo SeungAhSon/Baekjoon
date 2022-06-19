@@ -1,0 +1,4 @@
+import datetime
+days = ['MON','TUE','WED','THU','FRI','SAT','SUN']
+def solution(a, b):
+    return days[datetime.date(2016,a,b).weekday()]
