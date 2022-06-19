@@ -1,0 +1,10 @@
+1. 미국 국가 과학상을 수상한 어떤 인물은 누군가가 자신을 독살할 것을 두려워하여 아내가 만들어 준 음식만 먹기 시작했고, 아내가 입원하자 미국의 ???? 주에서 사망하였다. => [답안 링크](https://en.wikipedia.org/wiki/Kurt_G%C3%B6del#cite_note-11)
+2. 고대 그리스의 ????는 단지 역사에 남으려는 이유로 아르테미스 신전에 불을 질렀다. 그 결과 그를 처형한 것은 물론, 그의 이름을 언급하는 것이 법으로 금지되었다. => [답안 링크](http://www.atlasnews.co.kr/news/articleView.html?idxno=916)
+3. 한때 가장 조회수가 많은 유튜브 동영상은 싸이의 강남 스타일 뮤직비디오였다. 이 기록은 2017년 7월에 ???? 뮤직비디오가 경신했다. -> [답안 링크](https://www.hani.co.kr/arti/society/society_general/802457.html)
+4. 노벨상을 수상한 ????는 수상 당시 가택 연금 상태여서 시상식에 참가할 수 없었다. => [답안 링크](https://go.seoul.co.kr/news/newsView.php?id=20210202002011&redirect=false)
+5. 가장 작은 국가에서 두 번째로 작은 국가로 차를 타고 이동하려면 x km를 운전해야 한다. 이때 x/100을 자연수 단위로 반올림하면 ????이다.=> [답안 링크](https://www.google.com/search?q=batican+monako+km&rlz=1C5CHFA_enKR885KR885&sxsrf=ALiCzsaNYL7d4fzAcr4wvmWj25AhhVxBRg%3A1655642138308&ei=GhivYu63EouY0ATsw4yYBA&ved=0ahUKEwjurJ3Mw7n4AhULDJQKHewhA0MQ4dUDCA4&uact=5&oq=batican+monako+km&gs_lcp=Cgdnd3Mtd2l6EAMyBwghEAoQoAE6BAgjECc6EQguEIAEELEDEIMBEMcBENEDOggILhCABBCxAzoLCAAQgAQQsQMQgwE6EQguEIAEELEDEIMBEMcBEKMCOggIABCABBCxAzoECAAQAzoECC4QAzoLCC4QgAQQsQMQgwE6BQgAEIAEOgsILhCABBCxAxDUAjoICC4QgAQQ1AI6BQguEIAEOgcIABCABBAKOg0ILhCxAxCDARDUAhAKOgoILhDHARCvARAKOgQIABAKOgoILhDHARDRAxAKOgQILhBDOgQIABANOgYIABAeEA06BAgAEBM6CAgAEB4QDRATOgoIABAeEA8QDRATOgoIABAeEA0QChATOgoIABAeEAgQDRATOggIABAeEAgQDUoFCDwSATFKBAhBGABKBAhGGABQAFj-KmC-LGgBcAB4AIABnwGIAecSkgEEMC4xOJgBAKABAcABAQ&sclient=gws-wiz)
+6. 2018 평창 올림픽의 봅슬레이 종목 중 하나에서 캐나다 팀과 독일 팀이 공동 금메달을 따냈다. 이보다 앞선 ????년에 열린 올림픽에서도 봅슬레이 종목의 공동 금메달이 나온 적이 있다. => [답안 링크](https://www.donga.com/news/Sports/article/all/20180220/88757570/2)
+7. "????의 나무"라고 불렸던 이 나무의 반경 400km 이내에는 다른 나무가 없었다. 이 나무는 1973년에 누군가가 음주운전을 하고 들이받아서 죽었다. => [답안 링크](https://news.zum.com/articles/51401811)
+8. 처음으로 인간의 달 착륙에 성공한 우주선에서 ????는 유일하게 달에 발을 딛지 않았다. => [답안 링크](https://namu.wiki/w/%EB%A7%88%EC%9D%B4%ED%81%B4%20%EC%BD%9C%EB%A6%B0%EC%8A%A4(%EC%9A%B0%EC%A3%BC%EB%B9%84%ED%96%89%EC%82%AC))
+9. 스타트링크에서 제공하는 서비스는 ????개이다. => [답안 링크](https://startlink.io/) 지금은 7개이나, 제출했더니 틀려서 확인해보니 2018년 당시에는 6개였나보다.
+10. 다음은 고전 게임 ????의 스크린샷 중 일부이다. => [답안 링크](https://rootnode.tistory.com/entry/dragster)
