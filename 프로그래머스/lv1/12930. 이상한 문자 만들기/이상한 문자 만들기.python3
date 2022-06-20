@@ -1,0 +1,12 @@
+def solution(s):
+    ans = ''
+    flag = 1
+    for i in s:
+        if i!=' ' :
+            if flag == 1: ans += i.upper()
+            else : ans += i.lower()
+            flag *= -1
+        else :
+            ans += ' '
+            flag = 1
+    return ans
