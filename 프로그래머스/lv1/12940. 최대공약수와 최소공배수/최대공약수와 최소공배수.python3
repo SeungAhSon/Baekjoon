@@ -1,0 +1,7 @@
+def gcd(x, y):
+    while y: x, y = y, x % y
+    return x
+
+def solution(n, m):
+    answer = [gcd(n,m), n*m//gcd(n,m)]
+    return answer
