@@ -1,0 +1,4 @@
+def solution(x):
+    num = [int(a) for a in str(x)]
+    if x%sum(num)==0 : return True
+    else : return False
