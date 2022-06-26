@@ -1,0 +1,22 @@
+def solution(answers):
+    a1 = [1, 2, 3, 4, 5]
+    a2 = [2, 1, 2, 3, 2, 4, 2, 5]
+    a3 = [3, 3, 1, 1, 2, 2, 4, 4, 5, 5]
+    c1, c2, c3=0, 0, 0
+    
+    ans1 = (a1*(len(answers)//5)+a1[:(len(answers)%5)])
+    ans2 = (a2*(len(answers)//8)+a2[:(len(answers)%8)])
+    ans3 = (a3*(len(answers)//10)+a3[:(len(answers)%10)])
+
+    count1 = count2 = count3 = 0
+    for i in range(len(answers)):
+        if ans1[i]==answers[i] : count1+=1
+        if ans2[i]==answers[i] : count2+=1
+        if ans3[i]==answers[i] : count3+=1
+        
+    ans = []
+    if count1==max(count1,count2,count3) : ans.append(1)
+    if count2==max(count1,count2,count3) : ans.append(2)
+    if count3==max(count1,count2,count3) : ans.append(3)
+    
+    return ans
