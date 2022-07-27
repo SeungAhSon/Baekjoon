@@ -1,4 +1,6 @@
 def solution(num):
+    
+    #테스트 13 : input이 1일떄 return 0
     if(num==1) : return 0
 
     ans = 0
