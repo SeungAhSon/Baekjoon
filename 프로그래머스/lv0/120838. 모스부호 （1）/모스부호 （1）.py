@@ -8,8 +8,4 @@ def solution(letter):
         '-.--':'y','--..':'z'
     }
     
-    answer = []
-    for i in letter:
-        answer.append(morse[i])
-                
-    return "".join(answer)
+    return "".join(morse[i] for i in letter)
