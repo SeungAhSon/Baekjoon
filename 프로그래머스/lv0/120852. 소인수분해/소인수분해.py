@@ -1,10 +1,9 @@
 def solution(n):
     answer = []
-    tmp = n
     
     for i in range(2,n+1):
-        while (tmp % i == 0):
+        while (n % i == 0):
             answer.append(i)
-            tmp = tmp / i
+            n = n / i
             
     return sorted(list(set(answer)))
