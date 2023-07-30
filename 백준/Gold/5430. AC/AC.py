@@ -2,6 +2,7 @@ import sys
 from collections import deque
 
 #list reverse를 사용하면 timeout
+#실행 시간을 줄이기 위해 collections deque 사용
 
 T = int(sys.stdin.readline())
 
