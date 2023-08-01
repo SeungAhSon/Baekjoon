@@ -4,7 +4,8 @@ M = int(sys.stdin.readline())
 S = set()
 
 # list의 append, remove 방식으로 쓰면 메모리 초과 (1 ≤ M ≤ 3,000,000)
-# 집합을 구현한다는 점에서 set을 사용
+# 집합을 구현한다는 점에서 set을 사용 -> pypy로 내면 메모리 초과, python은 통과
+
 # N의 범위가 1~20이라는 점을 고려하면 비트마스킹으로 구현하는 풀이도 있을 듯
 
 for _ in range(M):
