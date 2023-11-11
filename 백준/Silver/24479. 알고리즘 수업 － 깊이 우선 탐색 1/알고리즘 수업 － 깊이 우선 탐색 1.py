@@ -1,5 +1,6 @@
 import sys
 sys.setrecursionlimit(100000)
+#'노드의 방문 순서를 출력'하는 것을 '방문 순서대로 노드를 출력'으로 잘못 이해했었다.
 
 def dfs(start_node):
     global temp  # Declare temp as a global variable
