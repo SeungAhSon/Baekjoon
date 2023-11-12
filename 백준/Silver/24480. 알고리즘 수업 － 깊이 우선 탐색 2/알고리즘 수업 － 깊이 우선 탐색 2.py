@@ -1,6 +1,8 @@
 import sys
 sys.setrecursionlimit(100000)
 
+#24479랑 같은 문제
+
 def dfs(start_node):
     global temp
     temp += 1
