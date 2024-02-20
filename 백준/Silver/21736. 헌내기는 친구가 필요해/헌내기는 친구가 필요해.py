@@ -1,5 +1,7 @@
 import sys
-#sys.setrecursionlimit(360000)
+#recursionlimit을 높게 설정해줘야한다. 처음에 360000으로 설정했다가 RecursionError가 떴다.
+#문제 풀 때 Index를 잘 확인하기.
+#pypy는 재귀가 많아지면 python보다 오히려 느려질 수 있다는 것을 배웠다.
 sys.setrecursionlimit(10**6)
 
 movement = [[1,0],[0,1],[-1,0],[0,-1]]
