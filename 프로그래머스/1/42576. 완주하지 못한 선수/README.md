@@ -1,6 +1,6 @@
 # [level 1] 완주하지 못한 선수 - 42576 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/42576) 
+[문제 링크](https://programmers.co.kr/learn/courses/30/lessons/42576) 
 
 ### 성능 요약
 
@@ -12,11 +12,7 @@
 
 ### 채점결과
 
-정확성: 58.3<br/>효율성: 41.7<br/>합계: 100.0 / 100.0
-
-### 제출 일자
-
-2024년 04월 14일 00:00:46
+<br/>정확성: 50.0<br/>효율성: 50.0<br/>합계: 100.0 / 100.0
 
 ### 문제 설명
 
@@ -69,9 +65,7 @@
 <p>예제 #3<br>
 "mislav"는 참여자 명단에는 두 명이 있지만, 완주자 명단에는 한 명밖에 없기 때문에 한명은 완주하지 못했습니다.</p>
 
-<hr>
-
-<p>※ 공지 - 2023년 01월 25일 테스트케이스가 추가되었습니다.</p>
+<p><a href="http://hsin.hr/coci/archive/2014_2015/contest2_tasks.pdf" target="_blank" rel="noopener">출처</a></p>
 
 
-> 출처: 프로그래머스 코딩 테스트 연습, https://school.programmers.co.kr/learn/challenges
+> 출처: 프로그래머스 코딩 테스트 연습, https://programmers.co.kr/learn/challenges
