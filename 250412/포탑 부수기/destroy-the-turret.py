@@ -1,3 +1,4 @@
+
 from collections import deque
 
 N,M,K = map(int, input().split())
@@ -22,7 +23,7 @@ def select_Victim():
     position.sort(key=lambda x: (-x[2], x[3], x[4], x[5]))
     return position[0][0], position[0][1]
 
-dir = [(0, 1), (1, 0), (0, -1), (-1, 0)]  
+dir = [(0, 1), (1, 0), (0, -1), (-1, 0)]
 def Laser(r1,c1,r2,c2):
     queue = deque([(r1,c1, [])])
     visited = [[0 for i in range(M)] for j in range(M)]
@@ -49,17 +50,22 @@ def Attack(r1,c1,r2,c2):
     if path==[]:
         for i in [-1,0,1]:
             for j in [-1,0,1]:
-                path.append(((r2+i)%N, (c2+j)%M))
+                r = (r2+i)%N
+                c = (c2+j)%M
+                path.append((r, c))
 
     # 실제 공격
-    for r,c in path[:-1]:
-        Table[r][c] -= Table[r1][c1]//2
-    Table[r2][c2] -= Table[r1][c1]
+    for r,c in path:
+        if r==r2 and c==c2:
+            Table[r2][c2] -= Table[r1][c1]
+        else:
+            Table[r][c] -= Table[r1][c1]//2
 
     return path
 
 #main
 for i in range(K):
+
     # 1. 공격자 선정
     r1,c1 = select_Attacker()
 
@@ -85,7 +91,7 @@ for i in range(K):
     # 4. 포탑 정비
     for i in range(N):
         for j in range(M):
-            if Table[i][j] != 0 and (i, j) != (r1, c1) and (i, j) not in path:
+            if Table[i][j] > 0 and (i, j) != (r1, c1) and (i, j) not in path:
                 Table[i][j] += 1
 
 
