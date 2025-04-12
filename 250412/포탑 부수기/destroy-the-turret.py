@@ -26,7 +26,7 @@ def select_Victim():
 dir = [(0, 1), (1, 0), (0, -1), (-1, 0)]
 def Laser(r1,c1,r2,c2):
     queue = deque([(r1,c1, [])])
-    visited = [[0 for i in range(M)] for j in range(M)]
+    visited = [[0 for i in range(M)] for j in range(N)]
     for i in range(N):
         for j in range(M):
             if Table[i][j]==0: visited[i][j]=1
