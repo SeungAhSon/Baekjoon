@@ -3,7 +3,7 @@ from collections import deque
 
 N,M,K = map(int, input().split())
 Table = [list(map(int, input().split())) for _ in range(N)]
-Count = [[-1 for i in range(M)] for j in range(M)]
+Count = [[-1 for i in range(M)] for j in range(N)]
 
 def select_Attacker():
     position = []
