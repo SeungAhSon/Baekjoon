@@ -56,7 +56,9 @@ def Attack(r1,c1,r2,c2):
 
     # 실제 공격
     for r,c in path:
-        if r==r2 and c==c2:
+        if r==r1 and c==c1:
+            pass
+        elif r==r2 and c==c2:
             Table[r2][c2] -= Table[r1][c1]
         else:
             Table[r][c] -= Table[r1][c1]//2
